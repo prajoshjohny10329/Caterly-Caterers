@@ -16,8 +16,8 @@ Project: Restaurant and Catering Html
     --rac-primary-color: #ee2e2e;
     --rac-font-color: #b4b4b4;
     --rac-white-color: #ffffff;
-    --rac-black-color: #292929;
-    --rac-border-color: #3d3d3d;
+    --rac-black-color: #020202;
+    --rac-border-color: #0f0f0f;
     --rac-border-radius: 20px;
     --rac-transition: all 0.3s;
     --rac-box-shadow: 0 0 20px 0 rgba(62, 28, 131, 0.1);
@@ -840,7 +840,7 @@ p {
 .rac_offer_wrapper {
     position: relative;
     overflow: hidden;
-    background-color: #1D1E1E;
+    background-color: #0D0D0D;
     background-image: url(../images/offer_bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
