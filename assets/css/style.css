@@ -416,7 +416,7 @@ p {
 
 .rac_banner_wrapper {
     position: relative;
-    background-image: url(../images/banner_bg.webp);
+    background-image: url(../img/index/banner.JPG);
     background-size: cover;
     padding: 90px 0;
     background-repeat: no-repeat;
@@ -507,7 +507,7 @@ p {
 .rac_header_wrapper.fixed {
     position: fixed;
     padding: 10px 0;
-    background-color: rgb(32 32 32 / 80%);
+    background-color:rgba(9, 9, 9, 0.8);
     animation: .5s ease-in-out 0s normal none 1 running fadeInDown;
     backdrop-filter: blur(3px);
 }
